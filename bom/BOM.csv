@@ -1,0 +1,28 @@
+﻿Item,Cantidad,Componente,Precio COP,Subtotal COP,Proveedor,URL,Estado
+1,1,ESP32 38 pines,26000,26000,Mactrónica,https://www.mactronica.com.co/esp32-38-pines,Precio publicado; stock contradictorio
+2,1,K + MAX6675,17000,17000,Mactrónica,https://www.mactronica.com.co/sensor-termocupla-con-max6675,Precio publicado; stock contradictorio
+3,1,Adaptador 12 V / 5 A,27450,27450,UHF Colombia,https://uhf.com.co/products/uhf-f12v5ah,Precio publicado
+4,1,LM2596 ajustable,6900,6900,Sumador,https://sumador.com/collections/reguladores,Precio publicado (sin LED)
+5,1,ULN2003AN DIP16,3500,3500,Distribuidor electrónico local,https://www.ti.com/product/ULN2003A,Estimación; cotizar
+6,2,SRD-12VDC-SL-C,3570,7140,Sigma Electrónica,https://www.sigmaelectronica.net/producto/srd-12vdc-sl-c/,Precio publicado
+7,6,10 kohm 1/4 W,100,600,Distribuidor electrónico local,https://www.mactronica.com.co/,Estimación; cotizar
+8,3,100 nF,300,900,Distribuidor electrónico local,https://www.mactronica.com.co/,Estimación; cotizar
+9,1,470 uF / 25 V,1500,1500,Distribuidor electrónico local,https://www.mactronica.com.co/,Estimación; cotizar
+10,1,1N5408,1000,1000,Distribuidor electrónico local,https://www.mactronica.com.co/,Estimación; cotizar
+11,1,Cable USB,5000,5000,Distribuidor electrónico local,https://www.mactronica.com.co/,Estimación; cotizar
+12,1,Placa y cableado DC,12000,12000,Distribuidor electrónico local,https://www.mactronica.com.co/,Estimación; cotizar
+13,1,JGB37-520 12 V 107 rpm,34153,34153,Vistrónica,https://www.vistronica.com/motorreductor-dc-jgb37-520-12v-con-107-rpm-sin-base-de-fijacion-detail.html,Precio publicado
+14,1,Ventilador 12 V,12000,12000,Distribuidor electrónico local,https://www.vistronica.com/,Estimación; cotizar
+15,1,120 V / 1100 W,40000,40000,ARES SAS,https://dcaressas.com/products/resistencia-plato-tubular-de-6-pulgadas-1100w-120v,Precio publicado
+16,1,Tambor acero inoxidable,85000,85000,Taller metalmecánico,Cotización local pendiente,Estimación; cotizar
+17,1,Reducción 3:1,20000,20000,Taller metalmecánico,Cotización local pendiente,Estimación; cotizar
+18,1,Bandeja y ducto,12000,12000,Taller metalmecánico,Cotización local pendiente,Estimación; cotizar
+19,1,SSR-25DA,28000,28000,Vistrónica,https://www.vistronica.com/potencia/rele-estado-solido-24-380vac-25a-ssr-25da-detail.html,Estimación; cotizar
+20,1,Disipador SSR,15000,15000,Distribuidor electrónico local,https://www.vistronica.com/,Estimación; cotizar
+21,1,Contactor 2 polos,90000,90000,Distribuidor de automatización,Cotización local pendiente,Estimación; cotizar
+22,1,Parada 2NC,20000,20000,Distribuidor de automatización,Cotización local pendiente,Estimación; cotizar
+23,1,Pulsador NO,5000,5000,Distribuidor de automatización,Cotización local pendiente,Estimación; cotizar
+24,1,Limitador térmico NC,30000,30000,Proveedor de control térmico,Cotización local pendiente,Estimación; cotizar
+25,1,Protecciones AC/DC,25000,25000,Distribuidor eléctrico,Cotización local pendiente,Estimación; cotizar
+26,1,Gabinete y cables AC,30000,30000,Distribuidor eléctrico,Cotización local pendiente,Estimación; cotizar
+27,1,Supresor bobina KM1,3000,3000,Distribuidor de automatización,Cotización local pendiente,Estimación; cotizar
